@@ -1,6 +1,6 @@
 # Breast cancer detection using LDA with feature selection 
 
-I use sequential forward selection (SFS) and Fisher's criterion to do the breast cancer classification task. LDA was choosed as classifier and 2-fold CV to evaluate the performance.
+I used sequential forward selection (SFS) and Fisher's criterion to do the breast cancer classification task. LDA was choosed as classifier and 2-fold CV to evaluate the performance.
 
 [Breast cancer dataset](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic)
 ## SFS
